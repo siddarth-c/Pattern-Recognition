@@ -1,4 +1,4 @@
-# PR ASSIGNMENT - 1 (Deadline :07/02/2021)
+# PR ASSIGNMENT - 1
 
 ```
 General Instructions:
